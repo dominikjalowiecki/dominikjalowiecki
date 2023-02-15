@@ -56,4 +56,4 @@ Interested in computers since childhood. Electronics, networking, server adminis
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en" alt="dominikjalowiecki" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="dominikjalowiecki" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en&langs_count=6" alt="dominikjalowiecki" /></p>
