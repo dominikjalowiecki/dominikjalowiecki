@@ -1,14 +1,14 @@
-<h1 align="left">Hi 👋, I'm Dominik.</h1>
-<h3 align="left">2nd year IT student and computer hobbyist.</h3>
+<h1>Hi 👋, I'm Dominik.</h1>
+<h3>2nd year IT student and computer hobbyist.</h3>
 
 <hr />
 
-<h3 align="left">About me</h3>
-<p align="left">
+<h3>About me</h3>
+<p>
 Interested in computers since childhood. Electronics, networking, server administration, webmastering, web application security, algorithms and data structures are the domains I was discovering. Now I'm focused on web development and clean code principles. Looking forward to new challenges 🎢
 </p>
 
-<h3 align="left">Technologies and Tools I use:</h3>
+<h3>Technologies and Tools I use:</h3>
 <h5>Frontend</h5>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -49,11 +49,11 @@ Interested in computers since childhood. Electronics, networking, server adminis
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-<p align="left">
-</p>
+<h3>Notes</h3>
+<p>I use MIKR.US VPS for hosting my projects. With my reflink you get additional 1 month of service: <a href="https://mikr.us/?r=ad55b41c" target="_blank" rel="noopener">https://mikr.us/?r=ad55b41c</a> </p>
 
-<h3 align="left">GitHub statistics:</h3>
+<h3>GitHub statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en" alt="dominikjalowiecki" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en" alt="dominikjalowiecki" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en&langs_count=5&hide=html,css" alt="dominikjalowiecki" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en&langs_count=5&hide=html,css" alt="dominikjalowiecki" /> </p>
