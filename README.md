@@ -48,6 +48,7 @@ Interested in computers since childhood. Electronics, networking, server adminis
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
 
 <h3>Notes</h3>
 <p>I use MIKR.US VPS for hosting my projects. With my reflink you get additional 1 month of service: <a href="https://mikr.us/?r=ad55b41c" target="_blank" rel="noopener">https://mikr.us/?r=ad55b41c</a> </p>
