@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Dominik.</h1>
-<h3>2nd year IT student and computer hobbyist.</h3>
+<h3>2nd year CS student and computer hobbyist.</h3>
 
 <hr />
 
