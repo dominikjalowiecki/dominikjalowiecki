@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Dominik.</h1>
-<h3>4th year CS student and computer hobbyist.</h3>
+<h3>BEng in Computer Science | Full Stack Developer</h3>
 
 <hr />
 
