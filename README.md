@@ -62,7 +62,7 @@ I'm a Computer Science graduate and a passionate Full Stack Developer with a str
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a>
 
 <h3>Notes</h3>
-<p>I use MIKR.US VPS for hosting my projects. With my reflink you get additional 1 month of service: <a href="https://mikr.us/?r=ad55b41c" target="_blank" rel="noopener">https://mikr.us/?r=ad55b41c</a> </p>
+<p>I use MIKR.US VPS for hosting my projects. With my reflink you get additional 1 month of service: <a href="https://mikr.us/?r=ad55b41c" target="_blank" rel="noopener">https://mikr.us/?r=677feaf3</a> </p>
 
 <h3>GitHub statistics</h3>
 
