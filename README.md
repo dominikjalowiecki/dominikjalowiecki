@@ -5,7 +5,7 @@
 
 <h3>About me</h3>
 <p>
-I'm a Computer Science student and a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. I have experience working with modern frameworks, databases, and cloud services to build scalable and efficient web applications. My interests include clean code principles, system design, and web security. Always eager to learn and grow, I'm excited to take on new challenges and contribute to innovative projects.
+I'm a Computer Science graduate and a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. I have experience working with modern frameworks, databases, and cloud services to build scalable and efficient web applications. My interests include clean code principles, system design, and web security. Always eager to learn and grow, I'm excited to take on new challenges and contribute to innovative projects.
 </p>
 
 <h3>Technologies and Tools I use</h3>
@@ -60,6 +60,9 @@ I'm a Computer Science student and a passionate Full Stack Developer with a stro
 <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://www.visual-paradigm.com" target="_blank" rel="noreferrer"> <img src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png" alt="visual paradigm" width="40" height="40"/> </a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a>
+
+<h3>Notes</h3>
+<p>I use MIKR.US VPS for hosting my projects. With my reflink you get additional 1 month of service: <a href="https://mikr.us/?r=ad55b41c" target="_blank" rel="noopener">https://mikr.us/?r=ad55b41c</a> </p>
 
 <h3>GitHub statistics</h3>
 
