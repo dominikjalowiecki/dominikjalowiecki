@@ -66,6 +66,10 @@ I'm a Computer Science graduate and a passionate Full Stack Developer with a str
 
 <h3>GitHub statistics</h3>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en" alt="dominikjalowiecki" /> </p>
+<p>
+  <img align="left" src="https://readme-stats-fork.vercel.app/api?username=dominikjalowiecki&theme=github_dark&show_icons=true" alt="dominikjalowiecki" />
+</p>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikjalowiecki&theme=github_dark&show_icons=true&locale=en&langs_count=5&hide=html,css&exclude_repo=PBAW_JPDSI_projekty" alt="dominikjalowiecki" /> </p>
+<p>
+  <img align="left" src="https://readme-stats-fork.vercel.app/api/top-langs?username=dominikjalowiecki&theme=github_dark&langs_count=5&hide=html,css" alt="dominikjalowiecki" />
+</p>
